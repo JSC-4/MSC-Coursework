@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Fri Mar 25 20:25:53 2022
+# Process ID: 25252
+# Current directory: C:/Users/jsc/Documents/7076CEM/Coursework/reaction_timer_7076cem/reaction_timer_7076cem.runs/synth_1
+# Command line: vivado.exe -log reaction_timer_top.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source reaction_timer_top.tcl
+# Log file: C:/Users/jsc/Documents/7076CEM/Coursework/reaction_timer_7076cem/reaction_timer_7076cem.runs/synth_1/reaction_timer_top.vds
+# Journal file: C:/Users/jsc/Documents/7076CEM/Coursework/reaction_timer_7076cem/reaction_timer_7076cem.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source reaction_timer_top.tcl -notrace

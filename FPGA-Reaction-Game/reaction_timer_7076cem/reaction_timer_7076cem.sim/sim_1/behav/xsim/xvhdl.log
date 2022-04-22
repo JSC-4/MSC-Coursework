@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/jsc/Documents/7076CEM/Coursework/reaction_timer_7076cem/reaction_timer_7076cem.srcs/sources_1/new/bin2bcd.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'bin2bcd'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/jsc/Documents/7076CEM/Coursework/reaction_timer_7076cem/reaction_timer_7076cem.srcs/sim_1/new/bin2bcd_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'bin2bcd_tb'

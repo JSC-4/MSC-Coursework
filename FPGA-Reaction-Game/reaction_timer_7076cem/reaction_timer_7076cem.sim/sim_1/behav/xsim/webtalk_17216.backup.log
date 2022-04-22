@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Webtalk v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Tue Mar 22 05:56:12 2022
+# Process ID: 17216
+# Current directory: C:/Users/jsc/Documents/7076CEM/Coursework/reaction_timer_7076cem/reaction_timer_7076cem.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source C:/Users/jsc/Documents/7076CEM/Coursework/reaction_timer_7076cem/reaction_timer_7076cem.sim/sim_1/behav/xsim/xsim.dir/clk_div_tb_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/Users/jsc/Documents/7076CEM/Coursework/reaction_timer_7076cem/reaction_timer_7076cem.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: C:/Users/jsc/Documents/7076CEM/Coursework/reaction_timer_7076cem/reaction_timer_7076cem.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/jsc/Documents/7076CEM/Coursework/reaction_timer_7076cem/reaction_timer_7076cem.sim/sim_1/behav/xsim/xsim.dir/clk_div_tb_behav/webtalk/xsim_webtalk.tcl -notrace
+INFO: [Common 17-186] 'C:/Users/jsc/Documents/7076CEM/Coursework/reaction_timer_7076cem/reaction_timer_7076cem.sim/sim_1/behav/xsim/xsim.dir/clk_div_tb_behav/webtalk/usage_statistics_ext_xsim.xml' has been successfully sent to Xilinx on Tue Mar 22 05:56:16 2022. For additional details about this file, please refer to the WebTalk help file at C:/Xilinx/Vivado/2019.1/doc/webtalk_introduction.html.
+INFO: [Common 17-206] Exiting Webtalk at Tue Mar 22 05:56:16 2022...
