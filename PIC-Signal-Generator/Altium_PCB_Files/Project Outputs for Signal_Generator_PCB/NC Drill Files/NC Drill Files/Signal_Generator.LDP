@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: G:\My Drive\Masters\Coventry\Modules\Embedded Hardware Engineering\Coursework\PCB\Altium\Altium Designer Files\Signal_Generator\Signal_Generator.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=signal_generator-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=signal_generator-slotholes.txt|DrillLayers=gtl,gbl
