@@ -1,0 +1,1 @@
+This coursework is about using Contiki OS to communicate between two motes, to send and receive sensor data.
